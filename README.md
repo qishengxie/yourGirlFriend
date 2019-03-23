@@ -1,4 +1,4 @@
-第一个开源项目，大家都来捧个人场啊！不会写代码也没关系！只要你对女朋友有渴望，都可以加入！我们欢迎你！
+﻿第一个开源项目，大家都来捧个人场啊！不会写代码也没关系！只要你对女朋友有渴望，都可以加入！我们欢迎你！
 
 Twins项目, 来自隔壁 『铝盆友』 开发文档!
 [这是你的男朋友](https://github.com/YixuanFranco/yourboyfriend)
@@ -24,13 +24,13 @@ Twins项目, 来自隔壁 『铝盆友』 开发文档!
   * 有女朋友却搞不定女朋友的用户. 
 
 3. 资金来源
-      * 支付宝账户: bailishanshan@foxmail.com
+      * 支付宝账户
       * 不要捐太多钱, 我们暂时用不到.
       * 但会在 GitHub 做记录.
 
 4. 开发人员:
       * 自愿加入.
-      * [项目地址](https://github.com/YixuanFranco/yourboyfriend)
+      * [项目地址](https://github.com/qishengxie/yourGirlFriend)
       * 盈利模式: 按功能项收费.
 
 5. 开发目标.
@@ -41,7 +41,7 @@ Twins项目, 来自隔壁 『铝盆友』 开发文档!
 ###如何加入这个项目?
 
 你可以...
-  * 补充你想要的需求. [补充地址](https://github.com/YixuanFranco/yourGirlFriend/issues/1)
+  * 补充你想要的需求. [补充地址](https://github.com/qishengxie/yourGirlFriend1)
   * 补充你对女朋友的幻想.
   * 写下你会的编程语言.
   * 认领你想要实现的模块.
