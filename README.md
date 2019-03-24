@@ -1,13 +1,13 @@
 ﻿第一个开源项目，大家都来捧个人场啊！不会写代码也没关系！只要你对女朋友有渴望，都可以加入！我们欢迎你！
 
 Twins项目, 来自隔壁 『铝盆友』 开发文档!
-[这是你的男朋友](https://github.com/YixuanFranco/yourboyfriend)
+[这是你的男朋友](https://github.com/qishengxie/yourboyfriend)
 
 嗯哼, 各大男光棍也欢迎开发啊!
 
 ###开发文档の背景
 
-因为[这是你的男朋友](https://github.com/YixuanFranco/yourboyfriend) 项目, 大妈云: "这个可以有,,,对应的,铝朋友版本也请同步开发!替诸君先谢谢了!" 于是! 同步开设 『铝盆友』 开发项目.
+因为[这是你的男朋友](https://github.com/qishengxie/yourboyfriend) 项目, 大妈云: "这个可以有,,,对应的,铝朋友版本也请同步开发!替诸君先谢谢了!" 于是! 同步开设 『铝盆友』 开发项目.
 
 嗯哼, 各大男光棍也欢迎开发啊!
 
